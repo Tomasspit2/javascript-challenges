@@ -1,0 +1,82 @@
+#ground {
+    width: 150px;
+    height: 10px;
+    background-color: blue;
+    display: none;
+}
+
+#verticalBar    {
+    width: 10px;
+    height: 150px;
+    background-color: blue;
+    margin-left: 100px;
+        display: none;
+}
+
+
+#latteralBar    {
+    width: 75px;
+    height: 10px;
+    background-color: blue;
+    margin-left: 25px;
+    display: none;
+}
+
+#rope   {
+    width: 5px;
+    background-color: blue;
+    height: 15px;
+    margin-left: 25px;
+    display: none;
+}
+
+#head {
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 12px;
+    display: none;
+}
+
+#leftArm    {
+    width: 20px;
+    background-color: blue;
+    height: 10px;
+    margin-right: 7.5px;
+    display: none;
+}
+
+#rightArm {
+    width: 20px;
+    background-color: blue;
+    height: 10px;
+    margin-left: 7.5px;
+    display: none;
+}
+
+#body   {
+    background-color: blue;
+    width: 15px;
+    height: 20px;
+    margin-left: 20px;
+    display: none;
+}
+
+#leftLeg   {
+    width: 20px;
+    background-color: blue;
+    height: 10px;
+    margin-right: 7.5px;
+    transform: rotate(-45deg);
+    display: none;
+}
+
+#rightLeg {
+    width: 20px;
+    background-color: blue;
+    height: 10px;
+    margin-left: 7.5px;
+    transform: rotate(45deg);
+    display: none;    
+}
